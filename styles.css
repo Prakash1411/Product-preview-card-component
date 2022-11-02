@@ -92,6 +92,7 @@ p{
   background-color: hsl(158, 36%, 37%);
   border: none;
   color: white;
+  font-weight: 700;
 }
 
 @media only screen and (max-width: 600px) {
